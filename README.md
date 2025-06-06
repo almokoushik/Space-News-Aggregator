@@ -3,7 +3,7 @@
 A React-based web application for browsing space-related news articles, built with Tailwind CSS and integrated with the Spaceflight News API.
 
 # Demo
-[https://news-paper-app-alpha.vercel.app/](https://vercel.com/abdulmominmooncses-projects/scientific-news-paper)
+[[https://news-paper-app-alpha.vercel.app/](https://vercel.com/abdulmominmooncses-projects/scientific-news-paper)](https://space-news-git-main-almokoushiks-projects.vercel.app/)
 
 ## Table of Contents
 
