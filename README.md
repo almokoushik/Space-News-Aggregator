@@ -1,4 +1,4 @@
-# SpaceNews
+# SpaceNews Aggregator
 
 A React-based web application for browsing space-related news articles, built with Tailwind CSS and integrated with the Spaceflight News API.
 
